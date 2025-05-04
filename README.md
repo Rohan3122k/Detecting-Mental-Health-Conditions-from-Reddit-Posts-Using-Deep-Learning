@@ -1,4 +1,4 @@
-# Detecting Mental Health Conditions from Reddit Posts Using Deep Learning
+# Detecting Mental Health Conditions from Social Media Posts Using Deep Learning
 
 ### Project Overview
 
